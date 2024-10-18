@@ -4,3 +4,4 @@
 *.java text eol=lf
 *.txt text
 *.sh text eol=lf
+*.meta text eol=lf
